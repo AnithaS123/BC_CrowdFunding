@@ -1,0 +1,14 @@
+#git ignore files needs to be here
+
+node_modules
+npm-debug.log
+trythistoo.js
+curio.js
+working.js
+previous.js
+.env
+sample.js
+Try.js
+try2.js
+.next
+Ethereum/build

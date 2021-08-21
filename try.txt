@@ -1,0 +1,3 @@
+node compile.js -- to buid folder create
+node deploy.js -- to get the address paste in factory.js
+create the campign 
